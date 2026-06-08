@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://b.zmtcdn.com/web_assets/8313a97515fcb0447d2d77c276532a511583262271.png" alt="Zomato" height="50" />
+<img src="https://b.zmtcdn.com/data/o2_assets/0defb9e0a349bcabc3efdc0d3e44f1571770373978.png" alt="Zomato" height="150" />
 
 # Zomato Base
 
